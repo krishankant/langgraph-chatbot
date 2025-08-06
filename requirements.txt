@@ -1,0 +1,20 @@
+# requirements.txt 
+langgraph
+langchain
+langchain-openai
+langchain-community
+fastapi
+uvicorn 
+streamlit 
+python-multipart
+python-dotenv
+tavily-python
+chromadb
+pypdf2
+python-docx
+pandas
+numpy
+pydantic
+httpx
+aiofiles
+typing-extensions
